@@ -1,0 +1,7 @@
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 6\TenperaureList\TenperaureList\bin\Debug\TenperaureList.exe.config
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 6\TenperaureList\TenperaureList\bin\Debug\TenperaureList.exe
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 6\TenperaureList\TenperaureList\bin\Debug\TenperaureList.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 6\TenperaureList\TenperaureList\obj\Debug\TenperaureList.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 6\TenperaureList\TenperaureList\obj\Debug\TenperaureList.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 6\TenperaureList\TenperaureList\obj\Debug\TenperaureList.exe
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 6\TenperaureList\TenperaureList\obj\Debug\TenperaureList.pdb
